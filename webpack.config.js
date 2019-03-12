@@ -7,7 +7,7 @@ module.exports = {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'UpperCasePlugin',
+    library: 'ToggleEditorPlugin',
     libraryExport: 'default'
   },
   resolve: {
